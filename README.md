@@ -2,7 +2,7 @@
 
 <h2>Resumo</h2>
 
-![Mapa de Calor ENEM-2023](analise_dados_enem_2023/dados_enem/arquivos_enem/mapa_media_enem.png)
+![Mapa de Calor ENEM-2023](dados_enem/arquivos_enem/mapa_media_enem.png)
 
 </h2>Projeto de análise e visualização espacial do desempenho médio dos candidados na prova de Redaçãodo ENEM-2023. Utilizando ferramentas de Inteligência Geográfica, é apresentado a desigualdade regional entre os Estados. 
 
