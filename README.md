@@ -4,7 +4,7 @@
 
 ![Mapa de Calor ENEM-2023](dados_enem/arquivos_enem/mapa_media_enem.png)
 
-</h2>Projeto de análise e visualização espacial do desempenho médio dos candidados na prova de Redaçãodo ENEM-2023. Utilizando ferramentas de Inteligência Geográfica, é apresentado a desigualdade regional entre os Estados. 
+<h2>Projeto de análise e visualização espacial do desempenho médio dos candidatos na prova de redação do ENEM - 2023. Com o uso de ferramentas de inteligência geográfica, é apresentada a desigualdade regional de ensino entre os estados.</h2>
 
 <h2>Bibliotecas aplicadas</h2>
 
